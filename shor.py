@@ -1,3 +1,11 @@
+"""Requisitos:
+    qiskit>=2.0,<3.0
+    qiskit-aer>=0.17
+    numpy
+    matplotlib
+    pylatexenc
+"""
+
 import sys
 from datetime import datetime
 from fractions import Fraction
