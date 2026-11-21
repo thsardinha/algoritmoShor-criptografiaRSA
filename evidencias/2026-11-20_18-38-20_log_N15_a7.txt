@@ -1,0 +1,5 @@
+Execucao: 2026-11-20_18-38-20
+N = 15, a = 7, shots = 2048, qubits = 12
+Periodo classico (conferencia): r = 4
+Resultado: 15 = 3 x 5
+Medidas (y: contagem): 0: 536, 192: 512, 128: 502, 64: 498
